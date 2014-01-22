@@ -1,0 +1,15 @@
+name: $name
+shortname: $shortname
+author: $author
+email: $email
+domain: $domain
+github: $github
+
+markdown: redcarpet
+pygments: true
+paginate: 5
+permalink: none
+
+tabs:
+  - title: Posts
+    url: /
